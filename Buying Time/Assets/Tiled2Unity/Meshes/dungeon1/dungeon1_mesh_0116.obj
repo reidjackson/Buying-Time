@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'dungeon1_mesh_0116.obj'
+
+# Vertices (Count = 4)
+v -15 -16 0
+v -16 -16 0
+v -16 -15 0
+v -15 -15 0
+
+# Texture cooridinates (Count = 4)
+vt 0.7567568 0.8695652
+vt 0.7837838 0.8695652
+vt 0.7837838 0.8913044
+vt 0.7567568 0.8913044
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g dungeon1_mesh_0116
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+
